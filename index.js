@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const icons = ['👋', '🤚', '🖐', '✋', '👉', '👐', '🤙', '🤟', '👩🏻‍💻', '🧑', '🌏', '🔥', '🌈', '🌼', '⛅️', '😑'];
+const icons = ['👋', '🤚', '🖐', '✋', '👉', '👐', '🤙', '🤟', '🧑', '🌏', '🔥', '🌈', '🌼', '⛅️', '😑'];
 const icon = icons[Math.floor(Math.random() * icons.length)];
 const mainHeading = `## ${icon} Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)`
 
