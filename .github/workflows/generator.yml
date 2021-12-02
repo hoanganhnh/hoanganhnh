@@ -3,7 +3,7 @@ name: generator
 on:
   workflow_dispatch:
   schedule:
-  - cron: "* * * * *"
+  - cron: "*/2 * * * * "
 
 jobs:
   build:
