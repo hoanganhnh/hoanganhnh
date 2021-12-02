@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hoanganhnh/hoanganhnh/issues"
   },
-  "homepage": "https://github.com/hoanganhnh/hoanganhnh#readme"
+  "homepage": "https://github.com/hoanganhnh/hoanganhnh#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
