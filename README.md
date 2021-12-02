@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+=======
+## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+>>>>>>> b0e5ce793434afe23d840b94cd9896625431fbc0
 
 
 - I love develop and design
