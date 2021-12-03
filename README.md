@@ -1,17 +1,11 @@
 ## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
-    <br />
-
----
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
 
 -   🌱 I’m currently learning Multimedia Development 🚀
 -   ⚡ Fun fact: I love to sleep 🤣
-    <br />
-
----
 
 ### Languages and Tools:
 
