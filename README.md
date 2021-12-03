@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 
 - I love develop and design
@@ -22,6 +22,6 @@
 <img style="margin-left: 5px;" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
 
-Arnold Horshak
+Stephen Richards
