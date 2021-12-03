@@ -1,12 +1,16 @@
+-   I love develop and design
+    <br />
 
-- I love develop and design
-<br />
 ---
+
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
-- 🌱 I’m currently learning Multimedia Development 🚀
-- ⚡ Fun fact: I love to sleep 🤣
-<br />
+
+-   🌱 I’m currently learning Multimedia Development 🚀
+-   ⚡ Fun fact: I love to sleep 🤣
+    <br />
+
 ---
+
 ### Languages and Tools:
 
 <img style="margin-left: 5px;" align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/6db18e609151830015183afde5ebe94fbff50627fb5a3c670627f9d8026919b4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32642f56697375616c5f53747564696f5f436f64655f312e31385f69636f6e2e737667" />
@@ -23,7 +27,6 @@
 
 <img style="margin-left: 5px;" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
 
-
 <br />
 
 ---
@@ -32,9 +35,19 @@
 <summary>📊 Recent Github Activity</summary>
   <p align="center">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&theme=dark&langs_count=8"
-      alt="nguyenhoanganh"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&  theme=dark&langs_count=8"
+        alt="nguyenhoanganh"
     />
   </p>
+</details>
+<br /> 
+<details> 
+    <summary>📈 Github Stats</summary> 
+    <p align="center"> 
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=hoanganhnh&show_icons=true&locale=en&theme=dark" 
+            alt="nguyenhoanganh" 
+        /> 
+    </p> 
 </details>
