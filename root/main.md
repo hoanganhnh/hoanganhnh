@@ -1,15 +1,10 @@
 -   I love develop and design
-    <br />
-
----
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
 
 -   🌱 I’m currently learning Multimedia Development 🚀
 -   ⚡ Fun fact: I love to sleep 🤣
-    <br />
 
----
 
 ### Languages and Tools:
 
@@ -27,7 +22,6 @@
 
 <img style="margin-left: 5px;" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
 
-<br />
 
 ---
 
@@ -41,7 +35,6 @@
     />
   </p>
 </details>
-<br /> 
 <details> 
     <summary>📈 Github Stats</summary> 
     <p align="center"> 
