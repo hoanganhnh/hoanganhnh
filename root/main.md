@@ -34,12 +34,3 @@
     />
   </p>
 </details>
-<details> 
-    <summary>📈 Github Stats</summary> 
-    <p align="center"> 
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=hoanganhnh&show_icons=true&locale=en&theme=dark" 
-            alt="nguyenhoanganh" 
-        /> 
-    </p> 
-</details>

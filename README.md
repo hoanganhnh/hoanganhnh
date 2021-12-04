@@ -7,6 +7,7 @@
 -   🌱 I’m currently learning Multimedia Development 🚀
 -   ⚡ Fun fact: I love to sleep 🤣
 
+
 ### Languages and Tools:
 
 <img style="margin-left: 5px;" align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/6db18e609151830015183afde5ebe94fbff50627fb5a3c670627f9d8026919b4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32642f56697375616c5f53747564696f5f436f64655f312e31385f69636f6e2e737667" />
@@ -29,23 +30,14 @@
 <summary>📊 Recent Github Activity</summary>
   <p align="center">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&theme=dark&langs_count=8"
-      alt="nguyenhoanganh"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&  theme=dark&langs_count=8"
+        alt="nguyenhoanganh"
     />
   </p>
 </details>
-<details> 
-    <summary>📈 Github Stats</summary> 
-    <p align="center"> 
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=hoanganhnh&show_icons=true&locale=en&theme=dark" 
-            alt="nguyenhoanganh" 
-        /> 
-    </p> 
-</details>
 
 
-_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-Stephen Richards
+Vince Lombardi
