@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -6,6 +6,7 @@
 
 -   🌱 I’m currently learning Multimedia Development 🚀
 -   ⚡ Fun fact: I love to sleep 🤣
+
 
 ### Languages and Tools:
 
@@ -29,9 +30,9 @@
 <summary>📊 Recent Github Activity</summary>
   <p align="center">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&theme=dark&langs_count=8"
-      alt="nguyenhoanganh"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhnh&show_icons=true&locale=en&  theme=dark&langs_count=8"
+        alt="nguyenhoanganh"
     />
   </p>
 </details>
@@ -46,6 +47,6 @@
 </details>
 
 
-_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-Stephen Richards
+Vince Lombardi
