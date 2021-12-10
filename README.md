@@ -1,4 +1,4 @@
-## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Dale Carnegie
+Napoleon Hill
