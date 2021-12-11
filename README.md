@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**A show of confidence raises the bar**_
 
-Napoleon Hill
+Lorii Myers
