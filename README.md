@@ -1,4 +1,4 @@
-## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**A show of confidence raises the bar**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Lorii Myers
+Carl Lewis
