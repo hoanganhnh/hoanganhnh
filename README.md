@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Extend beyond your preconceived limits!**_
 
-Mohamad Ali
+Lorii Myers
