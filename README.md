@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**If you have dreams it is your responsibility to make them happen.**_
 
-Arnold Horshak
+Bel Pesce
