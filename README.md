@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details>
 
 
-_**If you have dreams it is your responsibility to make them happen.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Bel Pesce
+Lao Tzu
