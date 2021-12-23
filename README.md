@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -25,7 +25,7 @@
 <img style="margin-left: 5px;" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
 
 ---
-
+<!-- 
 <details>
 <summary>📊 Recent Github Activity</summary>
   <p align="center">
@@ -35,7 +35,7 @@
         alt="nguyenhoanganh"
     />
   </p>
-</details>
+</details> -->
 
 
 _**A quitter never wins and a winner never quits**_
