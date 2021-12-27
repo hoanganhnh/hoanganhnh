@@ -1,4 +1,4 @@
-## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Stop complaining. Start creating.**_
 
-Jim Rohn
+Dale Patridge
