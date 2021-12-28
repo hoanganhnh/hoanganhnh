@@ -1,4 +1,4 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**Stop complaining. Start creating.**_
+_**Our words are buttressed by our deeds, and our deeds are inspired by our convictions.**_
 
-Dale Patridge
+Theodore Hesburgh
