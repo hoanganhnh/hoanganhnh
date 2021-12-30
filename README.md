@@ -1,4 +1,4 @@
-## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**Named must your fear be before banish it you can.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Yoda
+Paul Brown
