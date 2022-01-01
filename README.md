@@ -1,4 +1,4 @@
-## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**If I work as hard as I can, I wonder how much I can do in a day?**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Ezra Taft Benson
+Yogi Bhajan
