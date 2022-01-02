@@ -1,4 +1,7 @@
--   I love develop and design
+<br/>
+
+>[Learn more about me](https://hoanganhng.tech/)
+
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
 
