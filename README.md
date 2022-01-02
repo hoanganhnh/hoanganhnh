@@ -1,8 +1,6 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
-<br/>
-
->[Learn more about me](https://hoanganhng.tech/)
+-   I love develop and design
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
 
@@ -40,6 +38,6 @@
 </details> -->
 
 
-_**You are very powerful, provided you know how powerful you are.**_
+_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-Yogi Bhajan
+Charles F. Kettering
