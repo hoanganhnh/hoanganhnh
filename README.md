@@ -1,4 +1,4 @@
-## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Larry Page
+Howard Ruff
