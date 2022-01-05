@@ -1,4 +1,4 @@
-## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**It wasn't raining when Noah built the ark..**_
+_**You will never win if you never begin.**_
 
-Howard Ruff
+Helen Rowland
