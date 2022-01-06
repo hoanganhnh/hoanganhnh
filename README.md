@@ -1,4 +1,4 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 -   I love develop and design
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**You will never win if you never begin.**_
+_**Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.**_
 
-Helen Rowland
+G. Kingsley Ward
