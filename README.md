@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-George Bernard Shaw
+Lorii Myers
