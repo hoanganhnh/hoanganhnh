@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**The man who has confidence in himself gains the confidence of others.**_
 
-Winston Churchill
+Hasidic Proverb
