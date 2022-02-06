@@ -1,4 +1,4 @@
-## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Extend beyond your preconceived limits!**_
+_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
 
-Lorii Myers
+Vince Lombardi
