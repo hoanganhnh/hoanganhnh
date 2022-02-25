@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**By failing to prepare, you are preparing to fail.**_
 
-Apple Computers
+Benjamin Franklin
