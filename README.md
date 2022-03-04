@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**You make a living by what you earn; you make a life by what you give.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
 Winston Churchill
