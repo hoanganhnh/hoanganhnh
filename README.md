@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Winston Churchill
+Paul Brown
