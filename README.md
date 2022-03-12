@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
+_**Great things are done by a series of small things brought together.**_
 
-Ray Kroc
+Vincent Van Gogh
