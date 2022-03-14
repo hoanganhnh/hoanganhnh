@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**If you cannot do great things, do small things in a great way.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Napoleon Hill
+Larry Page
