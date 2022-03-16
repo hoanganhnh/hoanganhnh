@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Bel Pesce
+Barbara Pletcher
