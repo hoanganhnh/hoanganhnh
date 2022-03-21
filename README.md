@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -41,6 +41,6 @@
 </details> -->
 
 
-_**Stop complaining. Start creating.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Dale Patridge
+Winston Churchill
