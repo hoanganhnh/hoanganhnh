@@ -1,7 +1,5 @@
 ## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
-<br/>
-
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
 -   🌱 I’m currently learning Multimedia Development 🚀
