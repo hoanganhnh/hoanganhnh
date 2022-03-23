@@ -1,12 +1,9 @@
 <br/>
 
->[Learn more about me](https://hoanganhng.tech/)
-
-
-### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) and Developer!
+### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
 -   🌱 I’m currently learning Multimedia Development 🚀
--   ⚡ Fun fact: I love to sleep 🤣
+-   ⚡ I love to sleep 🤣
 
 
 ### Languages and Tools:
