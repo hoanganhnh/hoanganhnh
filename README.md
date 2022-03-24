@@ -1,4 +1,6 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+
+<br/>
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +38,6 @@
 </details> -->
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**The real opportunity for success lies within the person and not in the job.**_
 
-Arnold Horshak
+Zig Ziglar
