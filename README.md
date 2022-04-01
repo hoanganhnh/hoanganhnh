@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
 
-Jean Shinoda Bolen
+Edmund Hillary
