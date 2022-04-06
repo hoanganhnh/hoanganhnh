@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 <br/>
 
@@ -38,6 +38,6 @@
 </details> -->
 
 
-_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Steve Maraboli
+Vincent van Gogh
