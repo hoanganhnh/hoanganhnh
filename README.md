@@ -1,6 +1,4 @@
-## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
-
-<br/>
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -38,6 +36,6 @@
 </details> -->
 
 
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Winston Churchill
+Brene Brown
