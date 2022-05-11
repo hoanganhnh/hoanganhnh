@@ -1,4 +1,4 @@
-## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**We don't have to do all of it alone. We were never meant to.**_
 
-Carl Lewis
+Brene Brown
