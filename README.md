@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Daireth Winehouse
+Phil Grimshaw
