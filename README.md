@@ -1,4 +1,4 @@
-## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-Mark Bezos
+John Muir
