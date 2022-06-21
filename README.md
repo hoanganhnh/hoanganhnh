@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Lorii Myers
+Ralph Waldo Emerson
