@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Winning isn't everything.. It's the only thing.**_
+_**Named must your fear be before banish it you can.**_
 
-Vincent van Gogh
+Yoda
