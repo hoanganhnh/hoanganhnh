@@ -1,4 +1,4 @@
-## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Let our advance worrying become advance thinking and planning.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Winston Churchill
+Yogi Bhajan
