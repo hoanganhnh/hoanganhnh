@@ -1,4 +1,4 @@
-## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**You must be the change you want to see in the world..**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-M.K. Gandhi
+Vince Lombardi
