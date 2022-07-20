@@ -1,4 +1,4 @@
-## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
+_**Never waste your time trying to explain who you are to people who are committed to misunderstanding you.**_
 
-Mohamad Ali
+Dream Hampton
