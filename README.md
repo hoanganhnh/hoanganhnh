@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**A quitter never wins and a winner never quits**_
+_**Sometimes the bravest and most important thing you can do is just show up.**_
 
-Napoleon Hill
+Brene Brown
