@@ -1,4 +1,4 @@
-## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Don't be tempted to break momentum-work through it.**_
+_**You will never win if you never begin.**_
 
-Lorii Myers
+Helen Rowland
