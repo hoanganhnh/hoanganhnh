@@ -1,4 +1,4 @@
-## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**If you have dreams it is your responsibility to make them happen.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Bel Pesce
+Rumi
