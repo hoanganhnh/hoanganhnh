@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Rumi
+Yogi Bhajan
