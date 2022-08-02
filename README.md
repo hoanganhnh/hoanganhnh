@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**You are very powerful, provided you know how powerful you are.**_
+_**Beyond a certain point there is no return. This point has to be reached.**_
 
-Yogi Bhajan
+Franz Kafka
