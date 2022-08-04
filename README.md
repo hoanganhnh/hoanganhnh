@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Christiane Northrup
+Dale Carnegie
