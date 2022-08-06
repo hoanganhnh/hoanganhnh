@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Thomas Edison
+Japanese Proverb
