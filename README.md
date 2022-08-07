@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**Excellence prospers in the absence of excuses.**_
 
-Japanese Proverb
+Lorii Myers
