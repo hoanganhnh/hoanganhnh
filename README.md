@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**When you win, say nothing. When you lose, say less.**_
+_**If I work as hard as I can, I wonder how much I can do in a day?**_
 
-Paul Brown
+Ezra Taft Benson
