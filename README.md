@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
+_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
 
-Greg Child
+Vince Lombardi
