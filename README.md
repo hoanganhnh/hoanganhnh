@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.**_
 
-Chinese Proverb
+Mark Twain
