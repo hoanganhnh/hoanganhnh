@@ -1,4 +1,4 @@
-## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Stop complaining. Start creating.**_
+_**The determination to win is the better part of winning.**_
 
-Dale Patridge
+Daisaku Ikeda
