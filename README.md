@@ -1,4 +1,4 @@
-## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Logic will get you from A to B. Imagination will take you everywhere.**_
 
-John Wooden
+Albert Einstein
