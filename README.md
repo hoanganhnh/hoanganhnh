@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
+_**A quitter never wins and a winner never quits**_
 
-Niccolo Machiavelli
+Napoleon Hill
