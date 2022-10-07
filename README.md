@@ -1,4 +1,4 @@
-## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
+_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-Sidney Greenberg
+Jean Shinoda Bolen
