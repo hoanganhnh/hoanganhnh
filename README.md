@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Even if you're on the right track, you'll get run over if you just sit there..**_
 
-Brene Brown
+Will Rogers
