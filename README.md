@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Even if you're on the right track, you'll get run over if you just sit there..**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-Will Rogers
+George Bernard Shaw
