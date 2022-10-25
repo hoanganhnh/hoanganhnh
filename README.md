@@ -1,4 +1,4 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Arnold Horshak
+Lao Tzu
