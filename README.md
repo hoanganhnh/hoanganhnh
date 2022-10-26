@@ -1,4 +1,5 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p> 
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +37,6 @@
 </details> -->
 
 
-_**The journey of a thousand miles begins with one step.**_
+_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-Lao Tzu
+Larry Page
