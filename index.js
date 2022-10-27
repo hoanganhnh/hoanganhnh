@@ -19,7 +19,7 @@ const icons = [
   "😑",
 ];
 const icon = icons[Math.floor(Math.random() * icons.length)];
-const mainHeading = `<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p> \n## ${icon} Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)`;
+const mainHeading = `## ${icon} Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)`;
 
 const mainContent = fs.readFileSync("./root/main.md", "utf8");
 
