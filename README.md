@@ -1,5 +1,4 @@
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p> 
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -37,6 +36,6 @@
 </details> -->
 
 
-_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
+_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
 
-Larry Page
+Bill Murray
