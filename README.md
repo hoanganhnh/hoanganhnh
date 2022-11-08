@@ -1,4 +1,4 @@
-## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**The best way to predict the future is to create it.**_
 
-Steve Maraboli
+Abraham Lincoln
