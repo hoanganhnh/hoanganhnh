@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-Larry Page
+Maya Angelou
