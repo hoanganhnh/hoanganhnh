@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**Do the best you can until you know better. Then when you know better, do better.**_
+_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-Maya Angelou
+Jean Shinoda Bolen
