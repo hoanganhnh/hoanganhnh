@@ -1,4 +1,4 @@
-## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -36,6 +36,6 @@
 </details> -->
 
 
-_**A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.**_
+_**You will never win if you never begin.**_
 
-null
+Helen Rowland
