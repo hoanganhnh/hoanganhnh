@@ -1,4 +1,4 @@
-## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Martina Navratilova
+Apple Computers
