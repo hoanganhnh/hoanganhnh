@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?**_
+_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
 
-Brene Brown
+Bel Pesce
