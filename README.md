@@ -1,4 +1,4 @@
-## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Where there is ruin, there is hope for a treasure.**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Rumi
+Leo Durocher
