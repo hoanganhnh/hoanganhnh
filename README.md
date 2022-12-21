@@ -1,4 +1,4 @@
-## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Leo Durocher
+Truman Capote
