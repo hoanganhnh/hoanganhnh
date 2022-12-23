@@ -1,4 +1,4 @@
-## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Veronica A. Shoffstall
+Henry Ford
