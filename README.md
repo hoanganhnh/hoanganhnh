@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Whether you think you can or think you can't, you're right..**_
+_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
 
-Henry Ford
+David O. McKay
