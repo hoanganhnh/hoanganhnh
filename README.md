@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-David O. McKay
+Winston Churchill
