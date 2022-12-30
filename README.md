@@ -1,4 +1,4 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**If I work as hard as I can, I wonder how much I can do in a day?**_
 
-Mohamad Ali
+Ezra Taft Benson
