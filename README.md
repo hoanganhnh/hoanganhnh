@@ -1,4 +1,4 @@
-## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Extend beyond your preconceived limits!**_
+_**You must have a positive self perception in order to transcend anything.**_
 
-Lorii Myers
+Steve Maraboli
