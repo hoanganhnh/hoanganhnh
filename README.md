@@ -1,4 +1,4 @@
-## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Napoleon Bonaparte
+Howard Ruff
