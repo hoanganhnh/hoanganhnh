@@ -1,4 +1,4 @@
-## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🖐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Barbara Pletcher
+Christiane Northrup
