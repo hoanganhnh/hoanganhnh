@@ -1,4 +1,4 @@
-## 👉 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.**_
+_**Even if you're on the right track, you'll get run over if you just sit there..**_
 
-Henry Cloud
+Will Rogers
