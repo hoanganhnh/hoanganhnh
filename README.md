@@ -1,4 +1,4 @@
-## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Persistence is very important. You should not give up unless you are forced to give up.**_
+_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
 
-Elon Musk
+J.M. Power
