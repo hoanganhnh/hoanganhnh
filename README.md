@@ -1,4 +1,4 @@
-## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
+_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-Lorii Myers
+Honore de Balzac
