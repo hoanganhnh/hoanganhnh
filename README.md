@@ -1,4 +1,4 @@
-## 😑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Stop complaining. Start creating.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Dale Patridge
+Napoleon Hill
