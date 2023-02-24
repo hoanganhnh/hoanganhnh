@@ -1,4 +1,4 @@
-## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🧑 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Failure is the condiment that gives success its flavor.**_
+_**Things are not bad in themselves, but our cowardice makes them so.**_
 
-Truman Capote
+Michel de Montaigne
