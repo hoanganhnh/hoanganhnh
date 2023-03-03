@@ -1,4 +1,4 @@
-## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Stress is like a pulse, if you have it you are alive.**_
+_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
 
-Steve Maraboli
+Veronica A. Shoffstall
