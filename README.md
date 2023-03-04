@@ -1,4 +1,4 @@
-## 🤟 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🔥 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
 
-Veronica A. Shoffstall
+Voltaire
