@@ -1,4 +1,4 @@
-## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Anuj Somany
+Larry Page
