@@ -1,4 +1,4 @@
-## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🤚 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**There's such a thin line between winning and losing.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-John R. Tunis
+Henry Ford
