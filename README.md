@@ -1,4 +1,4 @@
-## 🌏 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-George Bernard Shaw
+Arnold Horshak
