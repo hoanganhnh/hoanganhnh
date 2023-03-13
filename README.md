@@ -1,4 +1,4 @@
-## 🌈 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## ✋ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-Arnold Horshak
+John Muir
