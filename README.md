@@ -1,4 +1,4 @@
-## 👐 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 🌼 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-G. Kingsley Ward
+Winston Churchill
