@@ -1,4 +1,4 @@
-## 🤙 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
 
-Honore de Balzac
+Jack Ma
