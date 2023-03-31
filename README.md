@@ -1,4 +1,4 @@
-## ⛅️ Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
+## 👋 Hi, I'm [@hoanganhnh](https://github.com/hoanganhnh)
 
 ### I'm a Student at [PTIT](https://portal.ptit.edu.vn/) !
 
@@ -35,6 +35,6 @@
 </details> -->
 
 
-_**Don't be afraid of losing, be afraid of playing a game and not learning something.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Dan Heisman
+Brene Brown
