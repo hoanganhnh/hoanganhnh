@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img style="margin-left: 5px;" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26" height="26"/>
+<img style="margin-left: 5px;" align="left" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/512x512.svg" alt="bash" width="26" height="26"/>
 <img style="margin-left: 5px;" align="left" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/docker-new.svg" alt="Jupyter" width="26" height="26"/>
 <img style="margin-left: 5px;" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
 <img style="margin-left: 5px;" align="left" height="26" width="26" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png">
